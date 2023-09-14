@@ -1,0 +1,50 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.mainColor {
+    color: #2BA0D5;
+}
+
+.mainColorDark1 {
+    color: #217AA3;
+}
+
+.mainColorDark2 {
+    color: #114157;
+}
+
+.mainColorGrey {
+    color: #2B4957;
+}
+
+.mainColorLight {
+    color: #6FBADD;
+}
+
+.menu-item {
+    margin: 0px 12px;
+    font-weight: bold;
+    font-family: 'Grandview', sans-serif;
+
+}
+
+.no-border {
+    border-color: transparent;
+}
+
+.grandview-font {
+    font-family: 'Grandview', sans-serif;
+}
+
+.dark-card {
+    background-color: #2B495720;
+}
+
+.text-paragraph {
+    font-family: 'Grandview', sans-serif;
+}
