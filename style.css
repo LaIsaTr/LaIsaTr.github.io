@@ -48,3 +48,10 @@ a:visited {
 .text-paragraph {
     font-family: 'Grandview', sans-serif;
 }
+
+.btn-standard {
+    background-color: #2BA0D5;
+    color: white;
+    font-family: 'Grandview', sans-serif;
+    border-radius: 2px;
+}
