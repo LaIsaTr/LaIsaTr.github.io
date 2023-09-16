@@ -80,3 +80,17 @@ a:active {
     font-family: 'Grandview', sans-serif;
     color: #114157;
 }
+
+.nav-link {
+    font-weight: bold;
+    font-family: 'Grandview', sans-serif;
+    color: #114157;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color: #217AA3;
+    font-weight: bolder;
+}
