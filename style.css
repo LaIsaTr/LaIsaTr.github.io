@@ -6,6 +6,15 @@ a:visited {
     text-decoration: none;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+
 .mainColor {
     color: #2BA0D5;
 }
@@ -56,6 +65,10 @@ a:visited {
     border-radius: 2px;
 }
 
+.btn-standard:hover {
+    background-color: #2B4957;
+    color: white;
+}
 .heading {
     font-family: 'Grandview', sans-serif;
     color: #114157;
