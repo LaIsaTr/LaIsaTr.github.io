@@ -55,3 +55,15 @@ a:visited {
     font-family: 'Grandview', sans-serif;
     border-radius: 2px;
 }
+
+.heading {
+    font-family: 'Grandview', sans-serif;
+    color: #114157;
+    font-weight: bold;
+}
+
+.card-heading {
+    font-weight: bolder;
+    font-family: 'Grandview', sans-serif;
+    color: #114157;
+}
